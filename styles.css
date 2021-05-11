@@ -1,0 +1,54 @@
+
+p{
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
+    padding: 10%;
+    font-size: 15px;
+}
+
+img{
+    padding: 20px 15% 0;
+}
+
+strong{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 40px;
+}
+
+.headings{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.main{
+    padding: 5% 20%;
+}
+.sedan{
+    background-color: hsl(31, 77%, 52%);
+    text-align: left;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.suv{
+    background-color: hsl(184, 100%, 22%);
+    text-align: left;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.luxury{
+    background-color: hsl(179, 100%, 13%);
+    text-align: left;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.button{
+    margin: 15%;
+    margin-top: 0;
+}
